@@ -4,7 +4,7 @@
 
 I am a creative engineer, building things that are pretty and techical. I enjoy experimenting with emerging technologies and I'm always looking to learn something new.
 
-Welcome to my personal GitHub profile. Here you will find a few open source projects from over the years, some good and some not quite. Not everything I do ends up here, most of it either sits somewhere in my computer or behind an NDA.
+Welcome to my personal GitHub profile. Here you will find a few open source projects from over the years, some good and some not quite. Not everything I do ends up here, most of it either sits somewhere in my computer, in a private repo, or behind an NDA.
 
 ___
 <p align="center">
