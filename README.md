@@ -4,7 +4,12 @@
 
 Welcome to my personal GitHub profile. Here you will find a few open source projects from over the years, some good, some not as much.
 
-**If you're looking for my professional account, see [@IvanAtUptake](https://github.com/IvanAtUptake/)**
+___
+<p align="center">
+  **If you're looking for my professional account, see <a href="https://github.com/IvanAtUptake/">@IvanAtUptake</a>
+</p>
+
+____
 
 My most popular project is Boop. It's a small tool for MacOS that lets you run simple transformation scripts in your text. It's very fun to use and comes in handy surprisingly often.
 
