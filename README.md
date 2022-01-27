@@ -8,7 +8,7 @@ Welcome to my personal GitHub profile. Here you will find a few open source proj
 
 ___
 <p align="center">
-  **If you're looking for my professional account, see <a href="https://github.com/IvanAtUptake/">@IvanAtUptake</a>
+If you're looking for my professional account, see <a href="https://github.com/IvanAtUptake/">@IvanAtUptake</a>
 </p>
 
 ____
