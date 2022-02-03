@@ -2,7 +2,7 @@
 
 ### Howdy! I'm Ivan ✨
 
-I am a creative engineer, building things that are pretty and techical. I enjoy experimenting with emerging technologies and I'm always looking to learn something new.
+I am a creative engineer, building things that are pretty and technical. I enjoy experimenting with emerging technologies and I'm always looking to learn something new.
 
 Welcome to my personal GitHub profile. Here you will find a few open source projects from over the years, some good and some not quite. Not everything I do ends up here, most of it either sits somewhere in my computer, in a private repo, or behind an NDA.
 
@@ -13,7 +13,7 @@ If you're looking for my professional account, see <a href="https://github.com/I
 
 ____
 
-My most popular project is [Boop](https://github.com/IvanMathy/Boop). It's a small tool for MacOS that lets you run simple transformation scripts in your text. It's very fun to use and comes in handy surprisingly often.
+My most popular project is [Boop](https://github.com/IvanMathy/Boop). It's a small tool for macOS that lets you run simple transformation scripts in your text. It's very fun to use and comes in handy surprisingly often.
 
 <p align="center">
 <img width="592" alt="Boop" src="https://user-images.githubusercontent.com/646858/151457279-982dd98b-305d-462c-bc56-e43979beb9a3.png">
