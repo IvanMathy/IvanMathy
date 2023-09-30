@@ -6,13 +6,6 @@ I am a creative engineer, building things that are pretty and technical. I enjoy
 
 Welcome to my personal GitHub profile. Here you will find a few open source projects from over the years, some good and some not quite. Not everything I do ends up here, most of it either sits somewhere in my computer, in a private repo, or behind an NDA.
 
-___
-<p align="center">
-If you're looking for my professional account, see <a href="https://github.com/IvanAtUptake/">@IvanAtUptake</a>
-</p>
-
-____
-
 My most popular project is [Boop](https://github.com/IvanMathy/Boop). It's a small tool for macOS that lets you run simple transformation scripts in your text. It's very fun to use and comes in handy surprisingly often.
 
 <p align="center">
